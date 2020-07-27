@@ -1,4 +1,6 @@
-### Hi there 👋
+### Frances Cooper
+
+![Visitor Count](https://profile-counter.glitch.me/fmcooper/count.svg)
 
 <!--
 **fmcooper/fmcooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
